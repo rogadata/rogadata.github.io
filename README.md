@@ -1,5 +1,3 @@
-# worldwide2
+# worldwide
 demo for public global site
 
-
-![](images/Export Potential Chile to Colombia.png)
