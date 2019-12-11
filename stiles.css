@@ -1,0 +1,16 @@
+body {
+    background-color: DarkCyan;
+    font-family: Georgia, serif;
+}
+h1, h4 {
+    color: white;
+    text-align: center;
+}
+p {
+    color: white;
+    text-align: center;
+}
+a {
+    color: whitesmoke;
+    font-weight: bold;
+}
